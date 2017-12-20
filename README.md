@@ -17,3 +17,5 @@ C:\HaxeToolkit\hl_1.3\hl heaps-hashlink-template.hl
 pause
 ```
 *Modify it so it points to your correct HashLink folder.*
+
+If you're new to Haxe, you can download the HaxeDevelop IDE [here](http://haxedevelop.org) or choose any other.
